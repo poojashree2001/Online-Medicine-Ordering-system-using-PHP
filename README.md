@@ -1,5 +1,5 @@
 # Online-Medicine-Ordering-system-using-PHP
-I developed this project using the following:
+I developed this full stack project during my engineering. I developed this project using the following:
 
 XAMPP v3.3.0
 PHP
